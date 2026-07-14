@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { createProduct } from '../api/productApi';
+import { createProduct } from '../api/ProductApi';
 import toast from 'react-hot-toast';
 
 const AdminUploadProduct = () => {

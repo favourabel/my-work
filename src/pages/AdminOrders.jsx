@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { getAllOrders, updateOrderStatus } from '../api/orderApi';
+import { getAllOrders, updateOrderStatus } from '../api/OrderApi';
 import toast from 'react-hot-toast';
 
 const AdminOrders = () => {

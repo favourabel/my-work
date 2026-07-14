@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { createOrder } from '../api/orderApi';
+import { createOrder } from '../api/OrderApi';
 import toast from 'react-hot-toast';
 import { useNavigate } from 'react-router-dom';
 
